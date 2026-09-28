@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💜 Joel Santiago Carreño Vargas
+#  Joel Santiago Carreño Vargas
 
 ### 💻 Estudiante de Desarrollo de Software | Campuslands
 
@@ -112,6 +112,6 @@ Mi meta es convertirme en un desarrollador profesional y construir proyectos cad
 
 <div align="center">
 
-### 💜 Gracias por visitar mi perfil 💜
+###  Gracias por visitar mi perfil 
 
 </div>

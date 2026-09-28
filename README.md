@@ -22,7 +22,7 @@
 
 ## 🚀 Sobre mí
 
-Soy **Joel Santiago Carreño Vargas**, desarrollador en formación en **Campuslands** (San Gil, Santander). Me apasiona transformar ideas en aplicaciones funcionales, escribir código limpio y aprender todos los días sobre desarrollo web y bases de datos.
+Soy **Joel Santiago Carreño Vargas**, soy gay y desarrollador en formación en **Campuslands** (San Gil, Santander). Me apasiona transformar ideas en aplicaciones funcionales, escribir código limpio y aprender todos los días sobre desarrollo web y bases de datos.
 
 ---
 

@@ -4,8 +4,6 @@
 
 ### 💻 Estudiante de Desarrollo de Software | Campuslands
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Desarrollador+Web+Junior+%7C+Frontend+%26+Backend;Apasionado+por+la+tecnolog%C3%ADa+y+el+código+limpio;Construyendo+soluciones+reales+desde+Colombia" />
-
 <br>
 
 <a href="mailto:joelsantiagocarrenovargas45@gmail.com">

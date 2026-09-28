@@ -1,69 +1,108 @@
-# 👋 Hola, soy Joel Santiago Carreño Vargas
+<div align="center">
+
+# 💜 Joel Santiago Carreño Vargas
 
 ### 💻 Estudiante de Desarrollo de Software | Campuslands
 
-> "Adaptabilidad pura: capaces de encajar en cualquier lugar."
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub;Python+%7C+HTML+%7C+CSS+%7C+Java;Apasionado+por+la+programacion;Aprendiendo+Inteligencia+Artificial;Adaptabilidad+pura%3A+capaces+de+encajar+en+cualquier+lugar" />
 
-📍 San Gil, Santander, Colombia
+<br>
+
+<a href="mailto:joelsantiagocarrenovargas45@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://instagram.com/joel_4516">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://github.com/joelsanti5623">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
-Soy Joel Santiago Carreño Vargas, estudiante de Desarrollo de Software en Campuslands.
+Soy **Joel Santiago Carreño Vargas**, estudiante de Desarrollo de Software en **Campuslands**.
 
-Me apasiona la programación, la inteligencia artificial y el desarrollo web. Actualmente desarrollo proyectos utilizando Python, HTML, CSS, Java y MySQL mientras continúo fortaleciendo mis habilidades técnicas y personales.
+Me apasiona la programación, el desarrollo web y la inteligencia artificial.
 
-Mi objetivo es convertirme en un gran desarrollador de software y seguir aprendiendo nuevas tecnologías cada día.
+Actualmente me encuentro fortaleciendo mis conocimientos en:
 
----
-
-## 🛠️ Tecnologías
-
-### Lenguajes
-
-- HTML5
-- CSS3
 - Python
+- HTML
+- CSS
 - Java
-- SQL
-
-### Herramientas
-
-- Git
-- GitHub
-- VS Code
-- PSeInt
+- Git y GitHub
 - MySQL
 
----
-
-## 📂 Proyectos Destacados
-
-### 🚀 Rutas Seguras Kids
-
-Proyecto enfocado en la seguridad y orientación de rutas.
-
-### ⌚ Tienda de Relojes
-
-Sitio web desarrollado con HTML y CSS.
+Mi meta es convertirme en un desarrollador profesional y construir proyectos cada vez más grandes y útiles.
 
 ---
 
-## 🎯 Objetivos
+# 🛠️ Tecnologías
 
-- Mejorar mis habilidades en desarrollo web.
-- Aprender más sobre inteligencia artificial.
-- Construir proyectos de alto impacto.
-- Crecer profesionalmente como desarrollador.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,python,java,mysql,git,github,vscode" />
+
+</div>
 
 ---
 
-## 📫 Contacto
+# 📊 Estadísticas GitHub
 
-📧 Correo: joelsantiagocarrenovargas45@gmail.com
+<div align="center">
 
-📱 WhatsApp: 3244212293
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelsanti5623&show_icons=true&theme=tokyonight"/>
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsanti5623&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Racha de contribuciones
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=joelsanti5623&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🌟 Proyectos destacados
+
+| Proyecto | Descripción |
+|-----------|------------|
+| 🚀 Rutas Seguras Kids | Proyecto enfocado en seguridad y orientación de rutas |
+| ⌚ Tienda de Relojes | Sitio web desarrollado con HTML y CSS |
+| 🐍 Proyecto Python | Desarrollo de aplicaciones y lógica de programación |
+| 🗄️ Base de Datos | Proyectos académicos con MySQL |
+
+---
+
+# 🎯 Objetivos
+
+- Aprender JavaScript.
+- Mejorar mis habilidades en Python.
+- Aprender más sobre Inteligencia Artificial.
+- Convertirme en desarrollador Full Stack.
+- Construir proyectos innovadores.
+
+---
+
+# 📫 Contacto
+
+📧 joelsantiagocarrenovargas45@gmail.com
+
+📱 3244212293
 
 📸 Instagram: @joel_4516
 
@@ -71,4 +110,8 @@ Sitio web desarrollado con HTML y CSS.
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+<div align="center">
+
+### 💜 Gracias por visitar mi perfil 💜
+
+</div>
